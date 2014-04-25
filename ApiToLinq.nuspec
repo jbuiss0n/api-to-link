@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Jérémy Buisson</authors>
+    <owners>Jérémy Buisson</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A very simple RESTApi Wrapper for WebApi</description>
+    <copyright>Copyright 2014 Jérémy Buisson</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
